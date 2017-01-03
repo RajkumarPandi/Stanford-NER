@@ -1,0 +1,4 @@
+The package Check is used for analysis phase, its been built on Stanford Named Entity Recognizer.
+Stanford Named Entity Recognizer: http://nlp.stanford.edu/software/CRF-NER.shtml
+It contains 7 classifiers: Organization, Person, Location, Date, Time, Money and Percent.
+Still working on the hypothesis proving phase mentioned in the Manifesto.
